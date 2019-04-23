@@ -1,12 +1,11 @@
 {
-  "name": "x509",
+  "name": "@connected-home/x509",
   "version": "0.3.3",
   "description": "Simple X509 certificate parser.",
-  "author": "Colton Baker",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Southern/node-x509.git"
+    "url": "git@github.com:ConnectedHomes/node-x509.git"
   },
   "scripts": {
     "test": "node test/test"
